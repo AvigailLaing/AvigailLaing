@@ -3,17 +3,15 @@
 
 ---
 
-## 🌸 About Me  
+## ⚡ About Me  
 I’m a student at the **University of Florida** passionate about building technology that’s secure, meaningful, and beautifully designed.  
 
 I love blending creativity with logic, whether by developing web apps or Android/iOS apps off of my latest ideas or defending systems with clever cybersecurity tactics.
 
 💡 I’m all about:
-- 🔒 **Cybersecurity & ethical hacking** — turning curiosity into defense.  
-- 💻 **Software engineering** — creating full-stack projects that solve real problems.  
-- 🎙️ **Content creation & education** — simplifying complex tech for others.  
-- ☀️ **Purpose-driven impact** — using tech to make life brighter, safer, and easier.  
-
+- 🔒 **Cybersecurity & ethical hacking** — both defensive and offensive cybersecurity.
+- 💻 **Software engineering** — creating full-stack projects that solve real problems.
+- 
 Currently seeking **Summer 2026 internships** in **software engineering, cybersecurity, or product development** where I can combine technical depth with creativity and human-centered design.  
 
 ---
