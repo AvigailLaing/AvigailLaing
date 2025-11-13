@@ -11,7 +11,6 @@ I love blending creativity with logic, whether by developing web apps or Android
 💡 I’m all about:
 - 🔒 **Cybersecurity & ethical hacking** — both defensive and offensive cybersecurity.
 - 💻 **Software engineering** — creating full-stack projects that solve real problems.
-- 
 Currently seeking **Summer 2026 internships** in **software engineering, cybersecurity, or product development** where I can combine technical depth with creativity and human-centered design.  
 
 ---
